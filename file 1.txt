@@ -1,1 +1,2 @@
-This text from main 1
+Some text from main 1
+Some text from second
